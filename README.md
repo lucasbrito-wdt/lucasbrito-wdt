@@ -1,8 +1,8 @@
 ### Olá!! Eu sou Lucas Brito 👋
 
-- 🔭 Atualmente estou trabalhando em CodifyTech
-- 🌱 Atualmente estou aprendendo Docker
-- 📫 Como entrar em contato comigo: luquinhasbritogba@hotmail.com
-- 😄 Pronomes: Ele
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito-wdt&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito-wdt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbrito-wdt&show_icons=true&bg_color=00000000))](https://github.com/anuraghazra/github-readme-stats)
