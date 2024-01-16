@@ -1,4 +1,13 @@
 # Olá, me chamo Lucas Brito ! 
+
+Tenho 7 anos de experiência como desenvolvedor Full-Stack, tenho uma vasta experiência em várias tecnologias e frameworks. Minhas principais stacks são Laravel, ReactJS e React Native, mas também tenho experiência com Livewire, Vite, Alpine.js, Next.js, Electron.js, React Native, Redux.js, C# WPF, NodeJS, MYSQL, MariaDB, SQL, Firebase, Bootstrap, Tailwind CSS e Material Design.
+
+No que diz respeito à minha personalidade, sou um Executor e Comunicador. Como Executor, estou focado em resultados e superação de obstáculos. Sou autoconfiante, competitivo, ousado, determinado e proativo. Adoro desafios. Como Comunicador, gosto de interagir e influenciar outras pessoas. Sou comunicativo, persuasivo, colaborativo e otimista. Tenho facilidade em me relacionar com os outros.
+
+No aspecto comportamental, valorizo o trabalho em equipe e a capacidade de trabalhar com pessoas de diferentes perfis para construir relações colaborativas. Sou criativo e capaz de combinar diferentes elementos para criar soluções novas e gerar resultados mais efetivos. Tenho habilidades de comunicação fortes e posso transmitir informações com clareza e objetividade. Além disso, sou organizado e capaz de gerenciar recursos, tempo, ações e resultados efetivamente.
+
+Em termos de valores, busco oportunidades de crescimento e novos desafios. Estou orientado para o alcance de metas objetivas e foco na entrega final. Além disso, valorizo o reconhecimento financeiro pelo trabalho realizado.
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Contatos:
