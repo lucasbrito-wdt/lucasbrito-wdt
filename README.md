@@ -1,4 +1,5 @@
-### Olá!! Eu sou Lucas Brito 👋
+# Olá, me chamo Lucas Brito ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 ## Contatos:
 
@@ -7,7 +8,8 @@
 <a href = "mailto:contato@lucasgba2011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-bizerril-de-brito" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-##
+
+<hr>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
