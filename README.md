@@ -55,6 +55,6 @@ Em termos de valores, busco oportunidades de crescimento e novos desafios. Estou
 
 <div>
 <a href="https://github.com/lucasbrito-wdt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito-wdt&include_orgs=true&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito-wdt&include_orgs=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito-wdt&&orgs=CodifyTech,webdesigntechnologies&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito-wdt&&orgs=CodifyTech,webdesigntechnologies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
