@@ -1,6 +1,6 @@
 # Lucas Brito
 
-Olá, eu me chamo Lucas Brito, tenho 7 anos de experiência como desenvolvedor Full-Stack, tenho uma vasta experiência em várias tecnologias e frameworks. Minhas principais stacks são Laravel, ReactJS e React Native, mas também tenho experiência com Livewire, Vite, Alpine.js, Next.js, Electron.js, React Native, Redux.js, C# WPF, NodeJS, MYSQL, MariaDB, SQL, Firebase, Bootstrap, Tailwind CSS e Material Design.
+Olá, eu me chamo Lucas Brito, tenho 7 anos de experiência como desenvolvedor Full-Stack, tenho uma vasta experiência em várias tecnologias e frameworks. Minhas principais stacks são Laravel, ReactJS, React Native Vue, Angular, mas também tenho experiência com Livewire, Vite, Alpine.js, Next.js, Electron.js, React Native, Redux.js, C# WPF, NodeJS, MYSQL, MariaDB, SQL, Firebase, Bootstrap, Tailwind CSS e Material Design.
 
 No que diz respeito à minha personalidade, sou um Executor e Comunicador. Como Executor, estou focado em resultados e superação de obstáculos. Sou autoconfiante, competitivo, ousado, determinado e proativo. Adoro desafios. Como Comunicador, gosto de interagir e influenciar outras pessoas. Sou comunicativo, persuasivo, colaborativo e otimista. Tenho facilidade em me relacionar com os outros.
 
