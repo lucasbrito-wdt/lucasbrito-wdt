@@ -55,7 +55,6 @@ Em termos de valores, busco oportunidades de crescimento e novos desafios. Estou
 
 <p align="center">
   <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbrito-wdt&theme=transparent" alt="st3llaris" />
-  <br/><br/>
 </p>
 <div>
 <a href="https://github.com/lucasbrito-wdt">
