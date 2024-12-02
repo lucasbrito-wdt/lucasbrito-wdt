@@ -50,14 +50,3 @@ Em termos de valores, busco oportunidades de crescimento e novos desafios. Estou
 <a href = "mailto:contato@lucasgba2011@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-bizerril-de-brito" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<hr>
-
-<p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbrito-wdt&theme=transparent" alt="st3llaris" />
-</p>
-<div>
-<a href="https://github.com/lucasbrito-wdt">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito-wdt&&orgs=CodifyTech,webdesigntechnologies&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito-wdt&&orgs=CodifyTech,webdesigntechnologies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
