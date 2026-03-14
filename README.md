@@ -1,12 +1,14 @@
 # Lucas Brito
 
-Olá, eu me chamo Lucas Brito, tenho 7 anos de experiência como desenvolvedor Full-Stack, tenho uma vasta experiência em várias tecnologias e frameworks. Minhas principais stacks são Laravel, ReactJS, React Native Vue, Angular, IONIC, mas também tenho experiência com Livewire, Vite, Alpine.js, Next.js, Electron.js, React Native, Redux.js, C# WPF, NodeJS, MYSQL, MariaDB, SQL, Firebase, Bootstrap, Tailwind CSS e Material Design.
+Sou Engenheiro de Software e Tech Lead com mais de 9 anos de experiência na construção de soluções digitais escaláveis, atuando do desenho de arquitetura à entrega em produção.
 
-No que diz respeito à minha personalidade, sou um Executor e Comunicador. Como Executor, estou focado em resultados e superação de obstáculos. Sou autoconfiante, competitivo, ousado, determinado e proativo. Adoro desafios. Como Comunicador, gosto de interagir e influenciar outras pessoas. Sou comunicativo, persuasivo, colaborativo e otimista. Tenho facilidade em me relacionar com os outros.
+Nos últimos anos, tenho expandido minha atuação para Inteligência Artificial aplicada, com foco em desenvolvimento de agentes de IA, automações inteligentes e integração de modelos de linguagem aos fluxos reais de negócio.
 
-No aspecto comportamental, valorizo o trabalho em equipe e a capacidade de trabalhar com pessoas de diferentes perfis para construir relações colaborativas. Sou criativo e capaz de combinar diferentes elementos para criar soluções novas e gerar resultados mais efetivos. Tenho habilidades de comunicação fortes e posso transmitir informações com clareza e objetividade. Além disso, sou organizado e capaz de gerenciar recursos, tempo, ações e resultados efetivamente.
+Atuo fortemente com Python, criando pipelines de dados, agentes autônomos, integrações com APIs de IA e soluções orientadas à tomada de decisão, sempre com foco em eficiência operacional e geração de valor.
 
-Em termos de valores, busco oportunidades de crescimento e novos desafios. Estou orientado para o alcance de metas objetivas e foco na entrega final. Além disso, valorizo o reconhecimento financeiro pelo trabalho realizado.
+Minha experiência combina engenharia de software tradicional (Laravel, Node.js, Vue.js, React) com IA moderna, permitindo construir produtos SaaS inteligentes, escaláveis e preparados para o futuro.
+
+Acredito que IA não é um fim, mas um meio para potencializar pessoas, automatizar processos e escalar negócios de forma sustentável.
 
 ## Ferramentas e Tecnologias
 
